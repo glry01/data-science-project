@@ -55,7 +55,7 @@ The main limitation is that the analysis uses **only 16 annual data points**. Wi
 Requirements: Python 3.9 or newer.
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/data-science-project.git
+git clone https://github.com/glry01/data-science-project.git
 cd data-science-project
 pip install -r requirements.txt
 jupyter notebook macau_ggr_vs_visitors.ipynb
